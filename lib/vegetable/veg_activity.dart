@@ -118,7 +118,7 @@ class _VegActivityPageState extends State<VegActivityPage> {
                             ? Colors.deepOrange
                             : Colors.grey[200],
                         child: Text(
-                          "D. The following vegetables is an example of carbohydrates-rich vegetables except.",
+                          "D. Kids are hated to eat vegetables.",
                           textAlign: TextAlign.center,
                           style: TextStyle(
                             color:
